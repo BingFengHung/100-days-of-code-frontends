@@ -1,4 +1,4 @@
-# 100 days of code front end - Day 01
+# 100 days of code front end - Day 02
 
 ## 前言
 
